@@ -1,0 +1,1 @@
+C:\Users\garri\.jdks\corretto-1.8.0_362\bin\java.exe -cp mariadb-java-client-3.0.3.jar;classes;. Main
